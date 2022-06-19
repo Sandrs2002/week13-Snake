@@ -1,0 +1,33 @@
+﻿<Properties StartupConfiguration="{EFB5EE48-9C31-4E0A-BF99-21F4A7D65BFC}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Walls.cs">
+    <Files>
+      <File FileName="Program.cs" Line="7" Column="1" />
+      <File FileName="Point.cs" Line="35" Column="36" />
+      <File FileName="HorizontalLine.cs" Line="5" Column="30" />
+      <File FileName="VerticalLine.cs" Line="5" Column="30" />
+      <File FileName="Figure.cs" Line="7" Column="1" />
+      <File FileName="Snake.cs" Line="70" Column="36" />
+      <File FileName="Direction.cs" Line="5" Column="30" />
+      <File FileName="FoodGenerator.cs" Line="6" Column="16" />
+      <File FileName="Walls.cs" Line="5" Column="30" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Snake" expanded="True">
+            <Node name="Snake" expanded="True">
+              <Node name="Walls.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Snake PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

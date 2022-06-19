@@ -1,0 +1,15 @@
+/Users/aleks/Projects/Snake/obj/Debug/net5.0/Snake.csproj.AssemblyReference.cache
+/Users/aleks/Projects/Snake/obj/Debug/net5.0/Snake.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aleks/Projects/Snake/obj/Debug/net5.0/Snake.AssemblyInfoInputs.cache
+/Users/aleks/Projects/Snake/obj/Debug/net5.0/Snake.AssemblyInfo.cs
+/Users/aleks/Projects/Snake/obj/Debug/net5.0/Snake.csproj.CoreCompileInputs.cache
+/Users/aleks/Projects/Snake/bin/Debug/net5.0/Snake.deps.json
+/Users/aleks/Projects/Snake/bin/Debug/net5.0/Snake.runtimeconfig.json
+/Users/aleks/Projects/Snake/bin/Debug/net5.0/Snake.runtimeconfig.dev.json
+/Users/aleks/Projects/Snake/bin/Debug/net5.0/Snake.dll
+/Users/aleks/Projects/Snake/bin/Debug/net5.0/ref/Snake.dll
+/Users/aleks/Projects/Snake/bin/Debug/net5.0/Snake.pdb
+/Users/aleks/Projects/Snake/obj/Debug/net5.0/Snake.dll
+/Users/aleks/Projects/Snake/obj/Debug/net5.0/ref/Snake.dll
+/Users/aleks/Projects/Snake/obj/Debug/net5.0/Snake.pdb
+/Users/aleks/Projects/Snake/obj/Debug/net5.0/Snake.genruntimeconfig.cache
